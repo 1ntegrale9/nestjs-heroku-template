@@ -1,0 +1,10 @@
+{
+  "name": "NestJS Heroku Template",
+  "description": "HerokuでNestJSを始めるテンプレート",
+  "repository": "https://github.com/1ntegrale9/nestjs-heroku-template",
+  "keywords": ["node", "nestjs"],
+  "env": {
+    "NPM_CONFIG_PRODUCTION": "false",
+    "NODE_ENV": "production"
+  }
+}
